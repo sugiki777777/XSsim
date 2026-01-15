@@ -1,8 +1,8 @@
 {
-  "allowed": ["2.07"],
+  "allowed": ["2.08"],
   "protocol": 7,
   "maintenance": false,
-  "message": "最新版 2.07 に更新してください。",
+  "message": "最新版 2.08 に更新してください。",
   "downloadUrl": "https://drive.google.com/uc?export=download&id=＜ここにビルドzipのFILE_ID＞",
   "contentHash": ""
 }
